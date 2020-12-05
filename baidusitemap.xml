@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://carltonxu.github.io/2020/12/04/aa/</loc>
-    <lastmod>2020-12-03</lastmod>
+    <loc>https://carltonxu.github.io/2020/12/06/VMware%E5%B9%B3%E5%8F%B0%E9%83%A8%E7%BD%B2KVM%E7%BD%91%E7%BB%9C%E6%97%A0%E6%B3%95%E9%80%9A%E4%BF%A1/</loc>
+    <lastmod>2020-12-05</lastmod>
   </url>
   <url>
-    <loc>https://carltonxu.github.io/2020/12/03/hello-world/</loc>
-    <lastmod>2020-12-03</lastmod>
+    <loc>https://carltonxu.github.io/2020/12/06/CentOS7.2%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85OpenSSH%207.8/</loc>
+    <lastmod>2020-12-05</lastmod>
+  </url>
+  <url>
+    <loc>https://carltonxu.github.io/2020/12/06/shell%E5%88%B6%E4%BD%9C%E8%87%AA%E8%A7%A3%E5%8E%8B%E6%96%87%E4%BB%B6tar/</loc>
+    <lastmod>2020-12-05</lastmod>
   </url>
 </urlset> 
