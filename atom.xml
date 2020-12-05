@@ -3,11 +3,11 @@
   <title>CarltonXu&#39;s Blog</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://https//carltonxu.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://https//carltonxu.github.io/"/>
   <updated>2020-12-03T16:23:58.038Z</updated>
-  <id>http://example.com/</id>
+  <id>https://https//carltonxu.github.io/</id>
   
   <author>
     <name>CarltonXu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>nihao</title>
-    <link href="http://example.com/2020/12/04/aa/"/>
-    <id>http://example.com/2020/12/04/aa/</id>
+    <link href="https://https//carltonxu.github.io/2020/12/04/aa/"/>
+    <id>https://https//carltonxu.github.io/2020/12/04/aa/</id>
     <published>2020-12-03T16:23:58.038Z</published>
     <updated>2020-12-03T16:23:58.038Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2020/12/03/hello-world/"/>
-    <id>http://example.com/2020/12/03/hello-world/</id>
+    <link href="https://https//carltonxu.github.io/2020/12/03/hello-world/"/>
+    <id>https://https//carltonxu.github.io/2020/12/03/hello-world/</id>
     <published>2020-12-03T02:08:57.570Z</published>
     <updated>2020-12-03T02:08:57.570Z</updated>
     
